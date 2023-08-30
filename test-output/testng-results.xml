@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-30T00:18:04 EET" name="Default suite" finished-at="2023-08-30T00:18:20 EET" duration-ms="16401">
+    <groups>
+    </groups>
+    <test started-at="2023-08-30T00:18:04 EET" name="Default test" finished-at="2023-08-30T00:18:20 EET" duration-ms="16401">
+      <class name="tests.BookingWorkflowTest">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:tests.BookingWorkflowTest@624ea235]" started-at="2023-08-30T00:17:53 EET" name="startDriver" finished-at="2023-08-30T00:18:04 EET" duration-ms="10316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="flightDestination()[pri:0, instance:tests.BookingWorkflowTest@624ea235]" started-at="2023-08-30T00:18:04 EET" name="flightDestination" finished-at="2023-08-30T00:18:06 EET" duration-ms="1954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightDestination -->
+        <test-method signature="Click_and_open_Date_Picker()[pri:1, instance:tests.BookingWorkflowTest@624ea235]" started-at="2023-08-30T00:18:06 EET" name="Click_and_open_Date_Picker" finished-at="2023-08-30T00:18:06 EET" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_and_open_Date_Picker -->
+        <test-method signature="nightStays()[pri:2, instance:tests.BookingWorkflowTest@624ea235]" started-at="2023-08-30T00:18:06 EET" name="nightStays" finished-at="2023-08-30T00:18:07 EET" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nightStays -->
+        <test-method signature="flightsSearch()[pri:3, instance:tests.BookingWorkflowTest@624ea235]" started-at="2023-08-30T00:18:07 EET" name="flightsSearch" finished-at="2023-08-30T00:18:18 EET" duration-ms="10351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightsSearch -->
+        <test-method signature="verfiy_displayed_Selected_number_ofguest()[pri:4, instance:tests.BookingWorkflowTest@624ea235]" started-at="2023-08-30T00:18:18 EET" name="verfiy_displayed_Selected_number_ofguest" finished-at="2023-08-30T00:18:19 EET" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_displayed_Selected_number_ofguest -->
+        <test-method signature="Property_rating()[pri:5, instance:tests.BookingWorkflowTest@624ea235]" started-at="2023-08-30T00:18:19 EET" name="Property_rating" finished-at="2023-08-30T00:18:19 EET" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Property_rating -->
+        <test-method signature="verfiy_match_Property_rating()[pri:6, instance:tests.BookingWorkflowTest@624ea235]" started-at="2023-08-30T00:18:19 EET" name="verfiy_match_Property_rating" finished-at="2023-08-30T00:18:20 EET" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_match_Property_rating -->
+      </class> <!-- tests.BookingWorkflowTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
